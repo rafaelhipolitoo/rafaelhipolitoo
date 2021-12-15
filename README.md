@@ -1,8 +1,8 @@
 ## Oiii eu sou Rafael Hipólito, entusiasta de programação e tecnologia!
 <div style="display: inline_block"><br>
   <a href="https://github.com/rafaelhipolitoo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelhipolitoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhipolitoo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rafaelhipolitoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhipolitoo&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
   ##
